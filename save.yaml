@@ -1,0 +1,23 @@
+---
+:player: !ruby/object:Player
+  answer: w
+  previous:
+  - a
+  - y
+  - w
+:word: musicologist
+:arr:
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+:i: 3
+:check: true
